@@ -9,3 +9,10 @@ https://morning.work/page/2016-05/how-to-write-a-nodejs-api-client-package.html
 如何让异步接口同时支持 callback 和 promise
 
 https://morning.work/page/maintainable-nodejs/promise-and-callback-problem.html
+
+
+如何编写一个简单的 Redis 客户端
+https://morning.work/page/2016-05/how-to-write-a-nodejs-redis-client.html
+
+早起搬砖  
+https://morning.work/
