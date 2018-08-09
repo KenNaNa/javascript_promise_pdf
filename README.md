@@ -28,3 +28,6 @@ https://segmentfault.com/a/1190000010414406
 
 
 https://segmentfault.com/a/1190000008254704
+
+
+https://github.com/wangfupeng1988/js-async-tutorial
