@@ -12,7 +12,12 @@ https://morning.work/page/maintainable-nodejs/promise-and-callback-problem.html
 
 
 如何编写一个简单的 Redis 客户端
+
 https://morning.work/page/2016-05/how-to-write-a-nodejs-redis-client.html
 
 早起搬砖  
 https://morning.work/
+
+循环与异步操作
+
+https://segmentfault.com/a/1190000011647482
