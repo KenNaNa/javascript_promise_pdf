@@ -21,3 +21,10 @@ https://morning.work/
 循环与异步操作
 
 https://segmentfault.com/a/1190000011647482
+
+thunkify和co源码解读
+
+https://segmentfault.com/a/1190000010414406
+
+
+https://segmentfault.com/a/1190000008254704
